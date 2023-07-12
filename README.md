@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Giovanni Silva</h1>
-<h3 align="center">A Actuary student passionate about Data Science</h3>
+<h3 align="center">An Actuary student passionate about Data Science</h3>
 
 - 🔭 I’m currently working on [Fisher - Consultoria Estatística](https://conecta.bio/fisherconsultoriaestatistica)
 
